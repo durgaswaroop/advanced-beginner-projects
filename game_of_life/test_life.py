@@ -79,7 +79,7 @@ class TestElementNextState:
 class TestUniverseNextState:
     def test_glider_next_state(self):
         universe = Universe(size=5, configuration='glider')
-        universe.next()
+        universe.next_state()
 
         expected_next_state = [
                 #0,1,2,3,4,5,6,7,8,9
