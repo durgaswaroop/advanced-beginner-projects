@@ -1,6 +1,6 @@
 ### DEVELOPMENT DEPENDENCIES ###
 Pillow==6.2.1
-numpy===1.17.4
+numpy===1.22.0
 
 ### STYLE CHECKS ###
 flake8==3.7.8
